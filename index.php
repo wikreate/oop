@@ -3,6 +3,6 @@
 		<title>Test</title>
 	</head>
 	<body>
-		<p></p>
+		<p>Hello, World!</p>
 	</body>
 </html>
